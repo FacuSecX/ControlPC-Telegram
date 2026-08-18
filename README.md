@@ -79,7 +79,7 @@ modifican la ruta donde tengan el .exe
 Instala las dependencias necesarias y configura las variables de entorno antes de iniciar el bot.
 
 ```bash
-python bot.py
+python control_pc.py
 ```
 
 ---
